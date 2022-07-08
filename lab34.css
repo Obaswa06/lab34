@@ -1,0 +1,13 @@
+body{
+    background-color:rg(200,200,200);
+    font-family:arial;    
+}
+h1{
+    background-color:blueviolet;
+}
+p{
+    background-color: white;
+}
+table{
+    background-color: blueviolet;
+}
