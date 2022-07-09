@@ -1,13 +1,21 @@
-body{
-    background-color:rg(200,200,200);
-    font-family:arial;    
-}
-h1{
-    background-color:blueviolet;
-}
-p{
-    background-color: white;
-}
-table{
+
+.main-content{
     background-color: blueviolet;
+    overflow: hidden;
+    text-align: center;
 }
+.navbar-left{
+    width: 20%;
+    height: 120%;
+    background-color:aliceblue;
+}
+.navbar-right{
+    float: right;
+    height: 100%;
+    color:black;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+
+}
+
